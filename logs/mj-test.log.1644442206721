@@ -1,0 +1,18 @@
+INFO  22:09:32,053 - Compiling source file: D:\ETF\Semestar MK VII\PP1\projekat\klipovi\sintaksna analiza\Izvorni kod\MJCompiler\test\program.mj
+INFO  22:09:32,078 - #2 program
+INFO  22:09:32,078 - #26 MJProgram
+INFO  22:09:32,079 - #26 int
+INFO  22:09:32,079 - #26 x
+INFO  22:09:32,079 - #5 ;
+INFO  22:09:32,080 - #26 int
+INFO  22:09:32,081 - #26 y
+INFO  22:09:32,081 - #5 ;
+INFO  22:09:32,081 - #3 {
+INFO  22:09:32,081 - #26 int
+INFO  22:09:32,081 - #26 main
+INFO  22:09:32,082 - #6 (
+INFO  22:09:32,082 - #7 )
+INFO  22:09:32,082 - #3 {
+ERROR 22:09:32,082 - 
+Sintaksna greska na liniji 4
+ERROR 22:09:32,082 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

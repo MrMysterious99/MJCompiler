@@ -1,0 +1,11 @@
+INFO  22:30:06,724 - Compiling source file: D:\ETF\Semestar MK VII\PP1\projekat\klipovi\sintaksna analiza\Izvorni kod\MJCompiler\test\program.mj
+INFO  22:30:07,064 - #2 program
+INFO  22:30:07,064 - #26 test301
+INFO  22:30:07,065 - #15 const
+INFO  22:30:07,073 - #26 int
+INFO  22:30:07,074 - #26 nula
+INFO  22:30:07,076 - #8 =
+INFO  22:30:07,076 - #5 ;
+ERROR 22:30:07,077 - 
+Sintaksna greska na liniji 5
+ERROR 22:30:07,077 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 5

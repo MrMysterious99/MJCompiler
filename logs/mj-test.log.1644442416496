@@ -1,0 +1,1780 @@
+INFO  22:33:09,986 - Compiling source file: D:\ETF\Semestar MK VII\PP1\projekat\klipovi\sintaksna analiza\Izvorni kod\MJCompiler\test\program.mj
+INFO  22:33:10,013 - #2 program
+INFO  22:33:10,013 - #26 test301
+INFO  22:33:10,013 - #15 const
+INFO  22:33:10,014 - #26 int
+INFO  22:33:10,014 - #26 nula
+INFO  22:33:10,014 - #8 =
+INFO  22:33:10,014 - #24 0
+INFO  22:33:10,014 - #5 ;
+INFO  22:33:10,015 - #15 const
+INFO  22:33:10,016 - #26 int
+INFO  22:33:10,016 - #26 jedan
+INFO  22:33:10,016 - #8 =
+INFO  22:33:10,016 - #24 1
+INFO  22:33:10,016 - #5 ;
+INFO  22:33:10,016 - #15 const
+INFO  22:33:10,016 - #26 int
+INFO  22:33:10,016 - #26 pet
+INFO  22:33:10,016 - #8 =
+INFO  22:33:10,016 - #24 5
+INFO  22:33:10,016 - #5 ;
+INFO  22:33:10,018 - #26 int
+INFO  22:33:10,018 - #26 niz
+INFO  22:33:10,018 - #16 [
+INFO  22:33:10,018 - #17 ]
+INFO  22:33:10,018 - #5 ;
+INFO  22:33:10,019 - #26 char
+INFO  22:33:10,019 - #26 nizch
+INFO  22:33:10,019 - #16 [
+INFO  22:33:10,019 - #17 ]
+INFO  22:33:10,020 - #5 ;
+INFO  22:33:10,020 - #3 {
+INFO  22:33:10,020 - #14 void
+INFO  22:33:10,020 - #26 main
+INFO  22:33:10,021 - #6 (
+INFO  22:33:10,021 - #7 )
+INFO  22:33:10,021 - #26 int
+INFO  22:33:10,021 - #26 bodovi
+INFO  22:33:10,021 - #5 ;
+INFO  22:33:10,022 - #3 {
+INFO  22:33:10,022 - #26 bodovi
+INFO  22:33:10,022 - #8 =
+INFO  22:33:10,023 - #24 0
+INFO  22:33:10,024 - #5 ;
+INFO  22:33:10,026 - #26 bodovi
+INFO  22:33:10,026 - #21 ++
+INFO  22:33:10,026 - #5 ;
+INFO  22:33:10,027 - #26 bodovi
+INFO  22:33:10,027 - #8 =
+INFO  22:33:10,027 - #26 bodovi
+INFO  22:33:10,027 - #10 +
+INFO  22:33:10,028 - #26 jedan
+INFO  22:33:10,028 - #5 ;
+INFO  22:33:10,029 - #26 bodovi
+INFO  22:33:10,029 - #8 =
+INFO  22:33:10,029 - #26 bodovi
+INFO  22:33:10,029 - #37 *
+INFO  22:33:10,029 - #26 pet
+INFO  22:33:10,029 - #5 ;
+INFO  22:33:10,030 - #26 bodovi
+INFO  22:33:10,030 - #22 --
+INFO  22:33:10,030 - #5 ;
+INFO  22:33:10,030 - #13 print
+INFO  22:33:10,031 - #6 (
+INFO  22:33:10,031 - #26 bodovi
+INFO  22:33:10,031 - #7 )
+INFO  22:33:10,031 - #5 ;
+INFO  22:33:10,031 - #26 niz
+INFO  22:33:10,031 - #8 =
+INFO  22:33:10,031 - #47 new
+INFO  22:33:10,031 - #26 int
+INFO  22:33:10,031 - #16 [
+INFO  22:33:10,032 - #24 3
+INFO  22:33:10,032 - #17 ]
+INFO  22:33:10,032 - #5 ;
+INFO  22:33:10,032 - #26 niz
+INFO  22:33:10,032 - #16 [
+INFO  22:33:10,032 - #26 nula
+INFO  22:33:10,032 - #17 ]
+INFO  22:33:10,032 - #8 =
+INFO  22:33:10,032 - #26 jedan
+INFO  22:33:10,032 - #5 ;
+INFO  22:33:10,032 - #26 niz
+INFO  22:33:10,032 - #16 [
+INFO  22:33:10,032 - #24 1
+INFO  22:33:10,033 - #17 ]
+INFO  22:33:10,033 - #8 =
+INFO  22:33:10,033 - #24 2
+INFO  22:33:10,033 - #5 ;
+INFO  22:33:10,033 - #26 niz
+INFO  22:33:10,033 - #16 [
+INFO  22:33:10,033 - #26 niz
+INFO  22:33:10,033 - #16 [
+INFO  22:33:10,033 - #26 jedan
+INFO  22:33:10,033 - #17 ]
+INFO  22:33:10,033 - #17 ]
+INFO  22:33:10,033 - #8 =
+INFO  22:33:10,033 - #26 niz
+INFO  22:33:10,033 - #16 [
+INFO  22:33:10,033 - #26 niz
+INFO  22:33:10,033 - #16 [
+INFO  22:33:10,033 - #24 0
+INFO  22:33:10,033 - #17 ]
+INFO  22:33:10,034 - #17 ]
+INFO  22:33:10,034 - #37 *
+INFO  22:33:10,034 - #24 3
+INFO  22:33:10,034 - #5 ;
+INFO  22:33:10,034 - #26 bodovi
+INFO  22:33:10,034 - #8 =
+INFO  22:33:10,034 - #26 niz
+INFO  22:33:10,034 - #16 [
+INFO  22:33:10,034 - #24 2
+INFO  22:33:10,034 - #17 ]
+INFO  22:33:10,034 - #38 /
+INFO  22:33:10,034 - #26 niz
+INFO  22:33:10,035 - #16 [
+INFO  22:33:10,035 - #24 0
+INFO  22:33:10,035 - #17 ]
+INFO  22:33:10,035 - #5 ;
+INFO  22:33:10,035 - #13 print
+INFO  22:33:10,035 - #6 (
+INFO  22:33:10,035 - #26 bodovi
+INFO  22:33:10,035 - #7 )
+INFO  22:33:10,035 - #5 ;
+INFO  22:33:10,035 - #13 print
+INFO  22:33:10,035 - #6 (
+INFO  22:33:10,035 - #26 niz
+INFO  22:33:10,035 - #16 [
+INFO  22:33:10,035 - #24 2
+INFO  22:33:10,035 - #17 ]
+INFO  22:33:10,035 - #7 )
+INFO  22:33:10,036 - #5 ;
+INFO  22:33:10,036 - #26 nizch
+INFO  22:33:10,036 - #8 =
+INFO  22:33:10,036 - #47 new
+INFO  22:33:10,036 - #26 char
+INFO  22:33:10,036 - #16 [
+INFO  22:33:10,036 - #24 3
+INFO  22:33:10,036 - #17 ]
+INFO  22:33:10,036 - #5 ;
+INFO  22:33:10,036 - #26 nizch
+INFO  22:33:10,036 - #16 [
+INFO  22:33:10,036 - #24 0
+INFO  22:33:10,036 - #17 ]
+INFO  22:33:10,036 - #8 =
+INFO  22:33:10,037 - #11 a
+INFO  22:33:10,037 - #5 ;
+INFO  22:33:10,037 - #26 nizch
+INFO  22:33:10,037 - #16 [
+INFO  22:33:10,037 - #26 jedan
+INFO  22:33:10,037 - #17 ]
+INFO  22:33:10,037 - #8 =
+INFO  22:33:10,037 - #11 b
+INFO  22:33:10,037 - #5 ;
+INFO  22:33:10,037 - #26 nizch
+INFO  22:33:10,037 - #16 [
+INFO  22:33:10,037 - #26 pet
+INFO  22:33:10,038 - #36 -
+INFO  22:33:10,038 - #24 3
+INFO  22:33:10,038 - #17 ]
+INFO  22:33:10,038 - #8 =
+INFO  22:33:10,038 - #11 c
+INFO  22:33:10,038 - #5 ;
+INFO  22:33:10,038 - #13 print
+INFO  22:33:10,038 - #6 (
+INFO  22:33:10,038 - #26 nizch
+INFO  22:33:10,038 - #16 [
+INFO  22:33:10,038 - #24 1
+INFO  22:33:10,038 - #17 ]
+INFO  22:33:10,038 - #7 )
+INFO  22:33:10,039 - #5 ;
+INFO  22:33:10,039 - #13 print
+INFO  22:33:10,039 - #6 (
+INFO  22:33:10,039 - #26 nizch
+INFO  22:33:10,039 - #16 [
+INFO  22:33:10,039 - #26 jedan
+INFO  22:33:10,039 - #37 *
+INFO  22:33:10,039 - #24 2
+INFO  22:33:10,039 - #17 ]
+INFO  22:33:10,039 - #7 )
+INFO  22:33:10,039 - #5 ;
+INFO  22:33:10,039 - #26 bodovi
+INFO  22:33:10,039 - #8 =
+INFO  22:33:10,039 - #26 bodovi
+INFO  22:33:10,039 - #10 +
+INFO  22:33:10,039 - #6 (
+INFO  22:33:10,039 - #26 pet
+INFO  22:33:10,040 - #37 *
+INFO  22:33:10,040 - #26 jedan
+INFO  22:33:10,040 - #36 -
+INFO  22:33:10,040 - #24 1
+INFO  22:33:10,040 - #7 )
+INFO  22:33:10,040 - #37 *
+INFO  22:33:10,040 - #26 bodovi
+INFO  22:33:10,040 - #36 -
+INFO  22:33:10,040 - #6 (
+INFO  22:33:10,040 - #24 3
+INFO  22:33:10,040 - #39 %
+INFO  22:33:10,041 - #24 2
+INFO  22:33:10,041 - #10 +
+INFO  22:33:10,041 - #24 3
+INFO  22:33:10,041 - #37 *
+INFO  22:33:10,041 - #24 2
+INFO  22:33:10,041 - #36 -
+INFO  22:33:10,041 - #24 3
+INFO  22:33:10,042 - #7 )
+INFO  22:33:10,042 - #5 ;
+INFO  22:33:10,042 - #13 print
+INFO  22:33:10,042 - #6 (
+INFO  22:33:10,042 - #26 bodovi
+INFO  22:33:10,042 - #7 )
+INFO  22:33:10,042 - #5 ;
+INFO  22:33:10,042 - #45 read
+INFO  22:33:10,042 - #6 (
+INFO  22:33:10,042 - #26 bodovi
+INFO  22:33:10,042 - #7 )
+INFO  22:33:10,042 - #5 ;
+INFO  22:33:10,042 - #13 print
+INFO  22:33:10,042 - #6 (
+INFO  22:33:10,042 - #26 bodovi
+INFO  22:33:10,043 - #7 )
+INFO  22:33:10,043 - #5 ;
+INFO  22:33:10,043 - #26 bodovi
+INFO  22:33:10,043 - #21 ++
+INFO  22:33:10,043 - #5 ;
+INFO  22:33:10,043 - #46 goto
+INFO  22:33:10,043 - #26 labela1
+INFO  22:33:10,043 - #5 ;
+INFO  22:33:10,043 - #26 bodovi
+INFO  22:33:10,043 - #8 =
+INFO  22:33:10,044 - #26 bodovi
+INFO  22:33:10,044 - #37 *
+INFO  22:33:10,044 - #24 2
+INFO  22:33:10,044 - #5 ;
+INFO  22:33:10,044 - #26 bodovi
+INFO  22:33:10,044 - #22 --
+INFO  22:33:10,044 - #5 ;
+INFO  22:33:10,044 - #26 labela1
+INFO  22:33:10,044 - #40 :
+INFO  22:33:10,044 - #26 bodovi
+INFO  22:33:10,044 - #8 =
+INFO  22:33:10,044 - #26 bodovi
+INFO  22:33:10,044 - #10 +
+INFO  22:33:10,044 - #24 3
+INFO  22:33:10,044 - #5 ;
+INFO  22:33:10,044 - #13 print
+INFO  22:33:10,044 - #6 (
+INFO  22:33:10,044 - #26 bodovi
+INFO  22:33:10,044 - #7 )
+INFO  22:33:10,045 - #5 ;
+INFO  22:33:10,045 - #46 goto
+INFO  22:33:10,045 - #26 labelaminus
+INFO  22:33:10,045 - #5 ;
+INFO  22:33:10,045 - #13 print
+INFO  22:33:10,045 - #6 (
+INFO  22:33:10,045 - #11 +
+INFO  22:33:10,045 - #7 )
+INFO  22:33:10,045 - #5 ;
+INFO  22:33:10,045 - #26 labelaminus
+INFO  22:33:10,045 - #40 :
+INFO  22:33:10,045 - #13 print
+INFO  22:33:10,045 - #6 (
+INFO  22:33:10,045 - #11 -
+INFO  22:33:10,045 - #7 )
+INFO  22:33:10,045 - #5 ;
+INFO  22:33:10,045 - #4 }
+INFO  22:33:10,045 - #4 }
+INFO  22:33:10,055 - Program(
+ test301
+  VarDeclarationsList(
+    VarDeclarationsList(
+      ConstDeclarationsList(
+        ConstDeclarationsList(
+          ConstDeclarationsList(
+            NoDeclList(
+            ) [NoDeclList]
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              ConstAssign(
+               nula
+                ConstNumber(
+                 0
+                ) [ConstNumber]
+              ) [ConstAssign]
+              NoConstAssignList(
+              ) [NoConstAssignList]
+            ) [ConstDecl]
+          ) [ConstDeclarationsList]
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstAssign(
+             jedan
+              ConstNumber(
+               1
+              ) [ConstNumber]
+            ) [ConstAssign]
+            NoConstAssignList(
+            ) [NoConstAssignList]
+          ) [ConstDecl]
+        ) [ConstDeclarationsList]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstAssign(
+           pet
+            ConstNumber(
+             5
+            ) [ConstNumber]
+          ) [ConstAssign]
+          NoConstAssignList(
+          ) [NoConstAssignList]
+        ) [ConstDecl]
+      ) [ConstDeclarationsList]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarListNoRecursion(
+          VarDeclaration(
+           niz
+            OptionalBracketsYes(
+            ) [OptionalBracketsYes]
+          ) [VarDeclaration]
+        ) [VarListNoRecursion]
+      ) [VarDecl]
+    ) [VarDeclarationsList]
+    VarDecl(
+      Type(
+       char
+      ) [Type]
+      VarListNoRecursion(
+        VarDeclaration(
+         nizch
+          OptionalBracketsYes(
+          ) [OptionalBracketsYes]
+        ) [VarDeclaration]
+      ) [VarListNoRecursion]
+    ) [VarDecl]
+  ) [VarDeclarationsList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidType(
+      ) [MethodVoidType]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      MethodVarDeclNoRecursion(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarListNoRecursion(
+            VarDeclaration(
+             bodovi
+              OptionalBracketsNo(
+              ) [OptionalBracketsNo]
+            ) [VarDeclaration]
+          ) [VarListNoRecursion]
+        ) [VarDecl]
+      ) [MethodVarDeclNoRecursion]
+      StatementsList(
+        StatementsList(
+          StatementsList(
+            StatementsList(
+              StatementsList(
+                StatementsList(
+                  StatementsList(
+                    StatementsList(
+                      StatementsList(
+                        StatementsList(
+                          StatementsList(
+                            StatementsList(
+                              StatementsList(
+                                StatementsList(
+                                  StatementsList(
+                                    StatementsList(
+                                      StatementsList(
+                                        StatementsList(
+                                          StatementsList(
+                                            StatementsList(
+                                              StatementsList(
+                                                StatementsList(
+                                                  StatementsList(
+                                                    StatementsList(
+                                                      StatementsList(
+                                                        StatementsList(
+                                                          StatementsList(
+                                                            StatementsList(
+                                                              StatementsList(
+                                                                StatementsList(
+                                                                  StatementsList(
+                                                                    StatementsList(
+                                                                      NoStmt(
+                                                                      ) [NoStmt]
+                                                                      StatementNoLabel(
+                                                                        SingleStatementOne(
+                                                                          DesignatorStatement(
+                                                                            Designator(
+                                                                             bodovi
+                                                                              OptionalFieldAccessListEpsilon(
+                                                                              ) [OptionalFieldAccessListEpsilon]
+                                                                            ) [Designator]
+                                                                            DesignatorChoiceAssign(
+                                                                              Assignop(
+                                                                              ) [Assignop]
+                                                                              Expr(
+                                                                                UnaryMinusNo(
+                                                                                ) [UnaryMinusNo]
+                                                                                Term(
+                                                                                  FactorNumber(
+                                                                                   0
+                                                                                  ) [FactorNumber]
+                                                                                  MulopFactorArrayEpsilon(
+                                                                                  ) [MulopFactorArrayEpsilon]
+                                                                                ) [Term]
+                                                                                AddopTermArrayEpsilon(
+                                                                                ) [AddopTermArrayEpsilon]
+                                                                              ) [Expr]
+                                                                            ) [DesignatorChoiceAssign]
+                                                                          ) [DesignatorStatement]
+                                                                        ) [SingleStatementOne]
+                                                                      ) [StatementNoLabel]
+                                                                    ) [StatementsList]
+                                                                    StatementNoLabel(
+                                                                      SingleStatementOne(
+                                                                        DesignatorStatement(
+                                                                          Designator(
+                                                                           bodovi
+                                                                            OptionalFieldAccessListEpsilon(
+                                                                            ) [OptionalFieldAccessListEpsilon]
+                                                                          ) [Designator]
+                                                                          DesignatorChoiceInc(
+                                                                          ) [DesignatorChoiceInc]
+                                                                        ) [DesignatorStatement]
+                                                                      ) [SingleStatementOne]
+                                                                    ) [StatementNoLabel]
+                                                                  ) [StatementsList]
+                                                                  StatementNoLabel(
+                                                                    SingleStatementOne(
+                                                                      DesignatorStatement(
+                                                                        Designator(
+                                                                         bodovi
+                                                                          OptionalFieldAccessListEpsilon(
+                                                                          ) [OptionalFieldAccessListEpsilon]
+                                                                        ) [Designator]
+                                                                        DesignatorChoiceAssign(
+                                                                          Assignop(
+                                                                          ) [Assignop]
+                                                                          Expr(
+                                                                            UnaryMinusNo(
+                                                                            ) [UnaryMinusNo]
+                                                                            Term(
+                                                                              FactorDesignator(
+                                                                                Designator(
+                                                                                 bodovi
+                                                                                  OptionalFieldAccessListEpsilon(
+                                                                                  ) [OptionalFieldAccessListEpsilon]
+                                                                                ) [Designator]
+                                                                                OptionalFactorActParsNo(
+                                                                                ) [OptionalFactorActParsNo]
+                                                                              ) [FactorDesignator]
+                                                                              MulopFactorArrayEpsilon(
+                                                                              ) [MulopFactorArrayEpsilon]
+                                                                            ) [Term]
+                                                                            AddopTermArrayRecursion(
+                                                                              AddopTermArrayEpsilon(
+                                                                              ) [AddopTermArrayEpsilon]
+                                                                              AddopTerm(
+                                                                                AddopPlus(
+                                                                                ) [AddopPlus]
+                                                                                Term(
+                                                                                  FactorDesignator(
+                                                                                    Designator(
+                                                                                     jedan
+                                                                                      OptionalFieldAccessListEpsilon(
+                                                                                      ) [OptionalFieldAccessListEpsilon]
+                                                                                    ) [Designator]
+                                                                                    OptionalFactorActParsNo(
+                                                                                    ) [OptionalFactorActParsNo]
+                                                                                  ) [FactorDesignator]
+                                                                                  MulopFactorArrayEpsilon(
+                                                                                  ) [MulopFactorArrayEpsilon]
+                                                                                ) [Term]
+                                                                              ) [AddopTerm]
+                                                                            ) [AddopTermArrayRecursion]
+                                                                          ) [Expr]
+                                                                        ) [DesignatorChoiceAssign]
+                                                                      ) [DesignatorStatement]
+                                                                    ) [SingleStatementOne]
+                                                                  ) [StatementNoLabel]
+                                                                ) [StatementsList]
+                                                                StatementNoLabel(
+                                                                  SingleStatementOne(
+                                                                    DesignatorStatement(
+                                                                      Designator(
+                                                                       bodovi
+                                                                        OptionalFieldAccessListEpsilon(
+                                                                        ) [OptionalFieldAccessListEpsilon]
+                                                                      ) [Designator]
+                                                                      DesignatorChoiceAssign(
+                                                                        Assignop(
+                                                                        ) [Assignop]
+                                                                        Expr(
+                                                                          UnaryMinusNo(
+                                                                          ) [UnaryMinusNo]
+                                                                          Term(
+                                                                            FactorDesignator(
+                                                                              Designator(
+                                                                               bodovi
+                                                                                OptionalFieldAccessListEpsilon(
+                                                                                ) [OptionalFieldAccessListEpsilon]
+                                                                              ) [Designator]
+                                                                              OptionalFactorActParsNo(
+                                                                              ) [OptionalFactorActParsNo]
+                                                                            ) [FactorDesignator]
+                                                                            MulopFactorArrayRecursion(
+                                                                              MulopFactorArrayEpsilon(
+                                                                              ) [MulopFactorArrayEpsilon]
+                                                                              MulopFactor(
+                                                                                MulopMul(
+                                                                                ) [MulopMul]
+                                                                                FactorDesignator(
+                                                                                  Designator(
+                                                                                   pet
+                                                                                    OptionalFieldAccessListEpsilon(
+                                                                                    ) [OptionalFieldAccessListEpsilon]
+                                                                                  ) [Designator]
+                                                                                  OptionalFactorActParsNo(
+                                                                                  ) [OptionalFactorActParsNo]
+                                                                                ) [FactorDesignator]
+                                                                              ) [MulopFactor]
+                                                                            ) [MulopFactorArrayRecursion]
+                                                                          ) [Term]
+                                                                          AddopTermArrayEpsilon(
+                                                                          ) [AddopTermArrayEpsilon]
+                                                                        ) [Expr]
+                                                                      ) [DesignatorChoiceAssign]
+                                                                    ) [DesignatorStatement]
+                                                                  ) [SingleStatementOne]
+                                                                ) [StatementNoLabel]
+                                                              ) [StatementsList]
+                                                              StatementNoLabel(
+                                                                SingleStatementOne(
+                                                                  DesignatorStatement(
+                                                                    Designator(
+                                                                     bodovi
+                                                                      OptionalFieldAccessListEpsilon(
+                                                                      ) [OptionalFieldAccessListEpsilon]
+                                                                    ) [Designator]
+                                                                    DesignatorChoiceDec(
+                                                                    ) [DesignatorChoiceDec]
+                                                                  ) [DesignatorStatement]
+                                                                ) [SingleStatementOne]
+                                                              ) [StatementNoLabel]
+                                                            ) [StatementsList]
+                                                            StatementNoLabel(
+                                                              SingleStatementEight(
+                                                                Expr(
+                                                                  UnaryMinusNo(
+                                                                  ) [UnaryMinusNo]
+                                                                  Term(
+                                                                    FactorDesignator(
+                                                                      Designator(
+                                                                       bodovi
+                                                                        OptionalFieldAccessListEpsilon(
+                                                                        ) [OptionalFieldAccessListEpsilon]
+                                                                      ) [Designator]
+                                                                      OptionalFactorActParsNo(
+                                                                      ) [OptionalFactorActParsNo]
+                                                                    ) [FactorDesignator]
+                                                                    MulopFactorArrayEpsilon(
+                                                                    ) [MulopFactorArrayEpsilon]
+                                                                  ) [Term]
+                                                                  AddopTermArrayEpsilon(
+                                                                  ) [AddopTermArrayEpsilon]
+                                                                ) [Expr]
+                                                                OptionalNumConstNo(
+                                                                ) [OptionalNumConstNo]
+                                                              ) [SingleStatementEight]
+                                                            ) [StatementNoLabel]
+                                                          ) [StatementsList]
+                                                          StatementNoLabel(
+                                                            SingleStatementOne(
+                                                              DesignatorStatement(
+                                                                Designator(
+                                                                 niz
+                                                                  OptionalFieldAccessListEpsilon(
+                                                                  ) [OptionalFieldAccessListEpsilon]
+                                                                ) [Designator]
+                                                                DesignatorChoiceAssign(
+                                                                  Assignop(
+                                                                  ) [Assignop]
+                                                                  Expr(
+                                                                    UnaryMinusNo(
+                                                                    ) [UnaryMinusNo]
+                                                                    Term(
+                                                                      FactorNewType(
+                                                                        Type(
+                                                                         int
+                                                                        ) [Type]
+                                                                        OptionalFactorExprYes(
+                                                                          Expr(
+                                                                            UnaryMinusNo(
+                                                                            ) [UnaryMinusNo]
+                                                                            Term(
+                                                                              FactorNumber(
+                                                                               3
+                                                                              ) [FactorNumber]
+                                                                              MulopFactorArrayEpsilon(
+                                                                              ) [MulopFactorArrayEpsilon]
+                                                                            ) [Term]
+                                                                            AddopTermArrayEpsilon(
+                                                                            ) [AddopTermArrayEpsilon]
+                                                                          ) [Expr]
+                                                                        ) [OptionalFactorExprYes]
+                                                                      ) [FactorNewType]
+                                                                      MulopFactorArrayEpsilon(
+                                                                      ) [MulopFactorArrayEpsilon]
+                                                                    ) [Term]
+                                                                    AddopTermArrayEpsilon(
+                                                                    ) [AddopTermArrayEpsilon]
+                                                                  ) [Expr]
+                                                                ) [DesignatorChoiceAssign]
+                                                              ) [DesignatorStatement]
+                                                            ) [SingleStatementOne]
+                                                          ) [StatementNoLabel]
+                                                        ) [StatementsList]
+                                                        StatementNoLabel(
+                                                          SingleStatementOne(
+                                                            DesignatorStatement(
+                                                              Designator(
+                                                               niz
+                                                                OptionalFieldAccessListRecursion(
+                                                                  OptionalFieldAccessListEpsilon(
+                                                                  ) [OptionalFieldAccessListEpsilon]
+                                                                  ArrayAccess(
+                                                                    Expr(
+                                                                      UnaryMinusNo(
+                                                                      ) [UnaryMinusNo]
+                                                                      Term(
+                                                                        FactorDesignator(
+                                                                          Designator(
+                                                                           nula
+                                                                            OptionalFieldAccessListEpsilon(
+                                                                            ) [OptionalFieldAccessListEpsilon]
+                                                                          ) [Designator]
+                                                                          OptionalFactorActParsNo(
+                                                                          ) [OptionalFactorActParsNo]
+                                                                        ) [FactorDesignator]
+                                                                        MulopFactorArrayEpsilon(
+                                                                        ) [MulopFactorArrayEpsilon]
+                                                                      ) [Term]
+                                                                      AddopTermArrayEpsilon(
+                                                                      ) [AddopTermArrayEpsilon]
+                                                                    ) [Expr]
+                                                                  ) [ArrayAccess]
+                                                                ) [OptionalFieldAccessListRecursion]
+                                                              ) [Designator]
+                                                              DesignatorChoiceAssign(
+                                                                Assignop(
+                                                                ) [Assignop]
+                                                                Expr(
+                                                                  UnaryMinusNo(
+                                                                  ) [UnaryMinusNo]
+                                                                  Term(
+                                                                    FactorDesignator(
+                                                                      Designator(
+                                                                       jedan
+                                                                        OptionalFieldAccessListEpsilon(
+                                                                        ) [OptionalFieldAccessListEpsilon]
+                                                                      ) [Designator]
+                                                                      OptionalFactorActParsNo(
+                                                                      ) [OptionalFactorActParsNo]
+                                                                    ) [FactorDesignator]
+                                                                    MulopFactorArrayEpsilon(
+                                                                    ) [MulopFactorArrayEpsilon]
+                                                                  ) [Term]
+                                                                  AddopTermArrayEpsilon(
+                                                                  ) [AddopTermArrayEpsilon]
+                                                                ) [Expr]
+                                                              ) [DesignatorChoiceAssign]
+                                                            ) [DesignatorStatement]
+                                                          ) [SingleStatementOne]
+                                                        ) [StatementNoLabel]
+                                                      ) [StatementsList]
+                                                      StatementNoLabel(
+                                                        SingleStatementOne(
+                                                          DesignatorStatement(
+                                                            Designator(
+                                                             niz
+                                                              OptionalFieldAccessListRecursion(
+                                                                OptionalFieldAccessListEpsilon(
+                                                                ) [OptionalFieldAccessListEpsilon]
+                                                                ArrayAccess(
+                                                                  Expr(
+                                                                    UnaryMinusNo(
+                                                                    ) [UnaryMinusNo]
+                                                                    Term(
+                                                                      FactorNumber(
+                                                                       1
+                                                                      ) [FactorNumber]
+                                                                      MulopFactorArrayEpsilon(
+                                                                      ) [MulopFactorArrayEpsilon]
+                                                                    ) [Term]
+                                                                    AddopTermArrayEpsilon(
+                                                                    ) [AddopTermArrayEpsilon]
+                                                                  ) [Expr]
+                                                                ) [ArrayAccess]
+                                                              ) [OptionalFieldAccessListRecursion]
+                                                            ) [Designator]
+                                                            DesignatorChoiceAssign(
+                                                              Assignop(
+                                                              ) [Assignop]
+                                                              Expr(
+                                                                UnaryMinusNo(
+                                                                ) [UnaryMinusNo]
+                                                                Term(
+                                                                  FactorNumber(
+                                                                   2
+                                                                  ) [FactorNumber]
+                                                                  MulopFactorArrayEpsilon(
+                                                                  ) [MulopFactorArrayEpsilon]
+                                                                ) [Term]
+                                                                AddopTermArrayEpsilon(
+                                                                ) [AddopTermArrayEpsilon]
+                                                              ) [Expr]
+                                                            ) [DesignatorChoiceAssign]
+                                                          ) [DesignatorStatement]
+                                                        ) [SingleStatementOne]
+                                                      ) [StatementNoLabel]
+                                                    ) [StatementsList]
+                                                    StatementNoLabel(
+                                                      SingleStatementOne(
+                                                        DesignatorStatement(
+                                                          Designator(
+                                                           niz
+                                                            OptionalFieldAccessListRecursion(
+                                                              OptionalFieldAccessListEpsilon(
+                                                              ) [OptionalFieldAccessListEpsilon]
+                                                              ArrayAccess(
+                                                                Expr(
+                                                                  UnaryMinusNo(
+                                                                  ) [UnaryMinusNo]
+                                                                  Term(
+                                                                    FactorDesignator(
+                                                                      Designator(
+                                                                       niz
+                                                                        OptionalFieldAccessListRecursion(
+                                                                          OptionalFieldAccessListEpsilon(
+                                                                          ) [OptionalFieldAccessListEpsilon]
+                                                                          ArrayAccess(
+                                                                            Expr(
+                                                                              UnaryMinusNo(
+                                                                              ) [UnaryMinusNo]
+                                                                              Term(
+                                                                                FactorDesignator(
+                                                                                  Designator(
+                                                                                   jedan
+                                                                                    OptionalFieldAccessListEpsilon(
+                                                                                    ) [OptionalFieldAccessListEpsilon]
+                                                                                  ) [Designator]
+                                                                                  OptionalFactorActParsNo(
+                                                                                  ) [OptionalFactorActParsNo]
+                                                                                ) [FactorDesignator]
+                                                                                MulopFactorArrayEpsilon(
+                                                                                ) [MulopFactorArrayEpsilon]
+                                                                              ) [Term]
+                                                                              AddopTermArrayEpsilon(
+                                                                              ) [AddopTermArrayEpsilon]
+                                                                            ) [Expr]
+                                                                          ) [ArrayAccess]
+                                                                        ) [OptionalFieldAccessListRecursion]
+                                                                      ) [Designator]
+                                                                      OptionalFactorActParsNo(
+                                                                      ) [OptionalFactorActParsNo]
+                                                                    ) [FactorDesignator]
+                                                                    MulopFactorArrayEpsilon(
+                                                                    ) [MulopFactorArrayEpsilon]
+                                                                  ) [Term]
+                                                                  AddopTermArrayEpsilon(
+                                                                  ) [AddopTermArrayEpsilon]
+                                                                ) [Expr]
+                                                              ) [ArrayAccess]
+                                                            ) [OptionalFieldAccessListRecursion]
+                                                          ) [Designator]
+                                                          DesignatorChoiceAssign(
+                                                            Assignop(
+                                                            ) [Assignop]
+                                                            Expr(
+                                                              UnaryMinusNo(
+                                                              ) [UnaryMinusNo]
+                                                              Term(
+                                                                FactorDesignator(
+                                                                  Designator(
+                                                                   niz
+                                                                    OptionalFieldAccessListRecursion(
+                                                                      OptionalFieldAccessListEpsilon(
+                                                                      ) [OptionalFieldAccessListEpsilon]
+                                                                      ArrayAccess(
+                                                                        Expr(
+                                                                          UnaryMinusNo(
+                                                                          ) [UnaryMinusNo]
+                                                                          Term(
+                                                                            FactorDesignator(
+                                                                              Designator(
+                                                                               niz
+                                                                                OptionalFieldAccessListRecursion(
+                                                                                  OptionalFieldAccessListEpsilon(
+                                                                                  ) [OptionalFieldAccessListEpsilon]
+                                                                                  ArrayAccess(
+                                                                                    Expr(
+                                                                                      UnaryMinusNo(
+                                                                                      ) [UnaryMinusNo]
+                                                                                      Term(
+                                                                                        FactorNumber(
+                                                                                         0
+                                                                                        ) [FactorNumber]
+                                                                                        MulopFactorArrayEpsilon(
+                                                                                        ) [MulopFactorArrayEpsilon]
+                                                                                      ) [Term]
+                                                                                      AddopTermArrayEpsilon(
+                                                                                      ) [AddopTermArrayEpsilon]
+                                                                                    ) [Expr]
+                                                                                  ) [ArrayAccess]
+                                                                                ) [OptionalFieldAccessListRecursion]
+                                                                              ) [Designator]
+                                                                              OptionalFactorActParsNo(
+                                                                              ) [OptionalFactorActParsNo]
+                                                                            ) [FactorDesignator]
+                                                                            MulopFactorArrayEpsilon(
+                                                                            ) [MulopFactorArrayEpsilon]
+                                                                          ) [Term]
+                                                                          AddopTermArrayEpsilon(
+                                                                          ) [AddopTermArrayEpsilon]
+                                                                        ) [Expr]
+                                                                      ) [ArrayAccess]
+                                                                    ) [OptionalFieldAccessListRecursion]
+                                                                  ) [Designator]
+                                                                  OptionalFactorActParsNo(
+                                                                  ) [OptionalFactorActParsNo]
+                                                                ) [FactorDesignator]
+                                                                MulopFactorArrayRecursion(
+                                                                  MulopFactorArrayEpsilon(
+                                                                  ) [MulopFactorArrayEpsilon]
+                                                                  MulopFactor(
+                                                                    MulopMul(
+                                                                    ) [MulopMul]
+                                                                    FactorNumber(
+                                                                     3
+                                                                    ) [FactorNumber]
+                                                                  ) [MulopFactor]
+                                                                ) [MulopFactorArrayRecursion]
+                                                              ) [Term]
+                                                              AddopTermArrayEpsilon(
+                                                              ) [AddopTermArrayEpsilon]
+                                                            ) [Expr]
+                                                          ) [DesignatorChoiceAssign]
+                                                        ) [DesignatorStatement]
+                                                      ) [SingleStatementOne]
+                                                    ) [StatementNoLabel]
+                                                  ) [StatementsList]
+                                                  StatementNoLabel(
+                                                    SingleStatementOne(
+                                                      DesignatorStatement(
+                                                        Designator(
+                                                         bodovi
+                                                          OptionalFieldAccessListEpsilon(
+                                                          ) [OptionalFieldAccessListEpsilon]
+                                                        ) [Designator]
+                                                        DesignatorChoiceAssign(
+                                                          Assignop(
+                                                          ) [Assignop]
+                                                          Expr(
+                                                            UnaryMinusNo(
+                                                            ) [UnaryMinusNo]
+                                                            Term(
+                                                              FactorDesignator(
+                                                                Designator(
+                                                                 niz
+                                                                  OptionalFieldAccessListRecursion(
+                                                                    OptionalFieldAccessListEpsilon(
+                                                                    ) [OptionalFieldAccessListEpsilon]
+                                                                    ArrayAccess(
+                                                                      Expr(
+                                                                        UnaryMinusNo(
+                                                                        ) [UnaryMinusNo]
+                                                                        Term(
+                                                                          FactorNumber(
+                                                                           2
+                                                                          ) [FactorNumber]
+                                                                          MulopFactorArrayEpsilon(
+                                                                          ) [MulopFactorArrayEpsilon]
+                                                                        ) [Term]
+                                                                        AddopTermArrayEpsilon(
+                                                                        ) [AddopTermArrayEpsilon]
+                                                                      ) [Expr]
+                                                                    ) [ArrayAccess]
+                                                                  ) [OptionalFieldAccessListRecursion]
+                                                                ) [Designator]
+                                                                OptionalFactorActParsNo(
+                                                                ) [OptionalFactorActParsNo]
+                                                              ) [FactorDesignator]
+                                                              MulopFactorArrayRecursion(
+                                                                MulopFactorArrayEpsilon(
+                                                                ) [MulopFactorArrayEpsilon]
+                                                                MulopFactor(
+                                                                  MulopDiv(
+                                                                  ) [MulopDiv]
+                                                                  FactorDesignator(
+                                                                    Designator(
+                                                                     niz
+                                                                      OptionalFieldAccessListRecursion(
+                                                                        OptionalFieldAccessListEpsilon(
+                                                                        ) [OptionalFieldAccessListEpsilon]
+                                                                        ArrayAccess(
+                                                                          Expr(
+                                                                            UnaryMinusNo(
+                                                                            ) [UnaryMinusNo]
+                                                                            Term(
+                                                                              FactorNumber(
+                                                                               0
+                                                                              ) [FactorNumber]
+                                                                              MulopFactorArrayEpsilon(
+                                                                              ) [MulopFactorArrayEpsilon]
+                                                                            ) [Term]
+                                                                            AddopTermArrayEpsilon(
+                                                                            ) [AddopTermArrayEpsilon]
+                                                                          ) [Expr]
+                                                                        ) [ArrayAccess]
+                                                                      ) [OptionalFieldAccessListRecursion]
+                                                                    ) [Designator]
+                                                                    OptionalFactorActParsNo(
+                                                                    ) [OptionalFactorActParsNo]
+                                                                  ) [FactorDesignator]
+                                                                ) [MulopFactor]
+                                                              ) [MulopFactorArrayRecursion]
+                                                            ) [Term]
+                                                            AddopTermArrayEpsilon(
+                                                            ) [AddopTermArrayEpsilon]
+                                                          ) [Expr]
+                                                        ) [DesignatorChoiceAssign]
+                                                      ) [DesignatorStatement]
+                                                    ) [SingleStatementOne]
+                                                  ) [StatementNoLabel]
+                                                ) [StatementsList]
+                                                StatementNoLabel(
+                                                  SingleStatementEight(
+                                                    Expr(
+                                                      UnaryMinusNo(
+                                                      ) [UnaryMinusNo]
+                                                      Term(
+                                                        FactorDesignator(
+                                                          Designator(
+                                                           bodovi
+                                                            OptionalFieldAccessListEpsilon(
+                                                            ) [OptionalFieldAccessListEpsilon]
+                                                          ) [Designator]
+                                                          OptionalFactorActParsNo(
+                                                          ) [OptionalFactorActParsNo]
+                                                        ) [FactorDesignator]
+                                                        MulopFactorArrayEpsilon(
+                                                        ) [MulopFactorArrayEpsilon]
+                                                      ) [Term]
+                                                      AddopTermArrayEpsilon(
+                                                      ) [AddopTermArrayEpsilon]
+                                                    ) [Expr]
+                                                    OptionalNumConstNo(
+                                                    ) [OptionalNumConstNo]
+                                                  ) [SingleStatementEight]
+                                                ) [StatementNoLabel]
+                                              ) [StatementsList]
+                                              StatementNoLabel(
+                                                SingleStatementEight(
+                                                  Expr(
+                                                    UnaryMinusNo(
+                                                    ) [UnaryMinusNo]
+                                                    Term(
+                                                      FactorDesignator(
+                                                        Designator(
+                                                         niz
+                                                          OptionalFieldAccessListRecursion(
+                                                            OptionalFieldAccessListEpsilon(
+                                                            ) [OptionalFieldAccessListEpsilon]
+                                                            ArrayAccess(
+                                                              Expr(
+                                                                UnaryMinusNo(
+                                                                ) [UnaryMinusNo]
+                                                                Term(
+                                                                  FactorNumber(
+                                                                   2
+                                                                  ) [FactorNumber]
+                                                                  MulopFactorArrayEpsilon(
+                                                                  ) [MulopFactorArrayEpsilon]
+                                                                ) [Term]
+                                                                AddopTermArrayEpsilon(
+                                                                ) [AddopTermArrayEpsilon]
+                                                              ) [Expr]
+                                                            ) [ArrayAccess]
+                                                          ) [OptionalFieldAccessListRecursion]
+                                                        ) [Designator]
+                                                        OptionalFactorActParsNo(
+                                                        ) [OptionalFactorActParsNo]
+                                                      ) [FactorDesignator]
+                                                      MulopFactorArrayEpsilon(
+                                                      ) [MulopFactorArrayEpsilon]
+                                                    ) [Term]
+                                                    AddopTermArrayEpsilon(
+                                                    ) [AddopTermArrayEpsilon]
+                                                  ) [Expr]
+                                                  OptionalNumConstNo(
+                                                  ) [OptionalNumConstNo]
+                                                ) [SingleStatementEight]
+                                              ) [StatementNoLabel]
+                                            ) [StatementsList]
+                                            StatementNoLabel(
+                                              SingleStatementOne(
+                                                DesignatorStatement(
+                                                  Designator(
+                                                   nizch
+                                                    OptionalFieldAccessListEpsilon(
+                                                    ) [OptionalFieldAccessListEpsilon]
+                                                  ) [Designator]
+                                                  DesignatorChoiceAssign(
+                                                    Assignop(
+                                                    ) [Assignop]
+                                                    Expr(
+                                                      UnaryMinusNo(
+                                                      ) [UnaryMinusNo]
+                                                      Term(
+                                                        FactorNewType(
+                                                          Type(
+                                                           char
+                                                          ) [Type]
+                                                          OptionalFactorExprYes(
+                                                            Expr(
+                                                              UnaryMinusNo(
+                                                              ) [UnaryMinusNo]
+                                                              Term(
+                                                                FactorNumber(
+                                                                 3
+                                                                ) [FactorNumber]
+                                                                MulopFactorArrayEpsilon(
+                                                                ) [MulopFactorArrayEpsilon]
+                                                              ) [Term]
+                                                              AddopTermArrayEpsilon(
+                                                              ) [AddopTermArrayEpsilon]
+                                                            ) [Expr]
+                                                          ) [OptionalFactorExprYes]
+                                                        ) [FactorNewType]
+                                                        MulopFactorArrayEpsilon(
+                                                        ) [MulopFactorArrayEpsilon]
+                                                      ) [Term]
+                                                      AddopTermArrayEpsilon(
+                                                      ) [AddopTermArrayEpsilon]
+                                                    ) [Expr]
+                                                  ) [DesignatorChoiceAssign]
+                                                ) [DesignatorStatement]
+                                              ) [SingleStatementOne]
+                                            ) [StatementNoLabel]
+                                          ) [StatementsList]
+                                          StatementNoLabel(
+                                            SingleStatementOne(
+                                              DesignatorStatement(
+                                                Designator(
+                                                 nizch
+                                                  OptionalFieldAccessListRecursion(
+                                                    OptionalFieldAccessListEpsilon(
+                                                    ) [OptionalFieldAccessListEpsilon]
+                                                    ArrayAccess(
+                                                      Expr(
+                                                        UnaryMinusNo(
+                                                        ) [UnaryMinusNo]
+                                                        Term(
+                                                          FactorNumber(
+                                                           0
+                                                          ) [FactorNumber]
+                                                          MulopFactorArrayEpsilon(
+                                                          ) [MulopFactorArrayEpsilon]
+                                                        ) [Term]
+                                                        AddopTermArrayEpsilon(
+                                                        ) [AddopTermArrayEpsilon]
+                                                      ) [Expr]
+                                                    ) [ArrayAccess]
+                                                  ) [OptionalFieldAccessListRecursion]
+                                                ) [Designator]
+                                                DesignatorChoiceAssign(
+                                                  Assignop(
+                                                  ) [Assignop]
+                                                  Expr(
+                                                    UnaryMinusNo(
+                                                    ) [UnaryMinusNo]
+                                                    Term(
+                                                      FactorChar(
+                                                      ) [FactorChar]
+                                                      MulopFactorArrayEpsilon(
+                                                      ) [MulopFactorArrayEpsilon]
+                                                    ) [Term]
+                                                    AddopTermArrayEpsilon(
+                                                    ) [AddopTermArrayEpsilon]
+                                                  ) [Expr]
+                                                ) [DesignatorChoiceAssign]
+                                              ) [DesignatorStatement]
+                                            ) [SingleStatementOne]
+                                          ) [StatementNoLabel]
+                                        ) [StatementsList]
+                                        StatementNoLabel(
+                                          SingleStatementOne(
+                                            DesignatorStatement(
+                                              Designator(
+                                               nizch
+                                                OptionalFieldAccessListRecursion(
+                                                  OptionalFieldAccessListEpsilon(
+                                                  ) [OptionalFieldAccessListEpsilon]
+                                                  ArrayAccess(
+                                                    Expr(
+                                                      UnaryMinusNo(
+                                                      ) [UnaryMinusNo]
+                                                      Term(
+                                                        FactorDesignator(
+                                                          Designator(
+                                                           jedan
+                                                            OptionalFieldAccessListEpsilon(
+                                                            ) [OptionalFieldAccessListEpsilon]
+                                                          ) [Designator]
+                                                          OptionalFactorActParsNo(
+                                                          ) [OptionalFactorActParsNo]
+                                                        ) [FactorDesignator]
+                                                        MulopFactorArrayEpsilon(
+                                                        ) [MulopFactorArrayEpsilon]
+                                                      ) [Term]
+                                                      AddopTermArrayEpsilon(
+                                                      ) [AddopTermArrayEpsilon]
+                                                    ) [Expr]
+                                                  ) [ArrayAccess]
+                                                ) [OptionalFieldAccessListRecursion]
+                                              ) [Designator]
+                                              DesignatorChoiceAssign(
+                                                Assignop(
+                                                ) [Assignop]
+                                                Expr(
+                                                  UnaryMinusNo(
+                                                  ) [UnaryMinusNo]
+                                                  Term(
+                                                    FactorChar(
+                                                    ) [FactorChar]
+                                                    MulopFactorArrayEpsilon(
+                                                    ) [MulopFactorArrayEpsilon]
+                                                  ) [Term]
+                                                  AddopTermArrayEpsilon(
+                                                  ) [AddopTermArrayEpsilon]
+                                                ) [Expr]
+                                              ) [DesignatorChoiceAssign]
+                                            ) [DesignatorStatement]
+                                          ) [SingleStatementOne]
+                                        ) [StatementNoLabel]
+                                      ) [StatementsList]
+                                      StatementNoLabel(
+                                        SingleStatementOne(
+                                          DesignatorStatement(
+                                            Designator(
+                                             nizch
+                                              OptionalFieldAccessListRecursion(
+                                                OptionalFieldAccessListEpsilon(
+                                                ) [OptionalFieldAccessListEpsilon]
+                                                ArrayAccess(
+                                                  Expr(
+                                                    UnaryMinusNo(
+                                                    ) [UnaryMinusNo]
+                                                    Term(
+                                                      FactorDesignator(
+                                                        Designator(
+                                                         pet
+                                                          OptionalFieldAccessListEpsilon(
+                                                          ) [OptionalFieldAccessListEpsilon]
+                                                        ) [Designator]
+                                                        OptionalFactorActParsNo(
+                                                        ) [OptionalFactorActParsNo]
+                                                      ) [FactorDesignator]
+                                                      MulopFactorArrayEpsilon(
+                                                      ) [MulopFactorArrayEpsilon]
+                                                    ) [Term]
+                                                    AddopTermArrayRecursion(
+                                                      AddopTermArrayEpsilon(
+                                                      ) [AddopTermArrayEpsilon]
+                                                      AddopTerm(
+                                                        AddopMinus(
+                                                        ) [AddopMinus]
+                                                        Term(
+                                                          FactorNumber(
+                                                           3
+                                                          ) [FactorNumber]
+                                                          MulopFactorArrayEpsilon(
+                                                          ) [MulopFactorArrayEpsilon]
+                                                        ) [Term]
+                                                      ) [AddopTerm]
+                                                    ) [AddopTermArrayRecursion]
+                                                  ) [Expr]
+                                                ) [ArrayAccess]
+                                              ) [OptionalFieldAccessListRecursion]
+                                            ) [Designator]
+                                            DesignatorChoiceAssign(
+                                              Assignop(
+                                              ) [Assignop]
+                                              Expr(
+                                                UnaryMinusNo(
+                                                ) [UnaryMinusNo]
+                                                Term(
+                                                  FactorChar(
+                                                  ) [FactorChar]
+                                                  MulopFactorArrayEpsilon(
+                                                  ) [MulopFactorArrayEpsilon]
+                                                ) [Term]
+                                                AddopTermArrayEpsilon(
+                                                ) [AddopTermArrayEpsilon]
+                                              ) [Expr]
+                                            ) [DesignatorChoiceAssign]
+                                          ) [DesignatorStatement]
+                                        ) [SingleStatementOne]
+                                      ) [StatementNoLabel]
+                                    ) [StatementsList]
+                                    StatementNoLabel(
+                                      SingleStatementEight(
+                                        Expr(
+                                          UnaryMinusNo(
+                                          ) [UnaryMinusNo]
+                                          Term(
+                                            FactorDesignator(
+                                              Designator(
+                                               nizch
+                                                OptionalFieldAccessListRecursion(
+                                                  OptionalFieldAccessListEpsilon(
+                                                  ) [OptionalFieldAccessListEpsilon]
+                                                  ArrayAccess(
+                                                    Expr(
+                                                      UnaryMinusNo(
+                                                      ) [UnaryMinusNo]
+                                                      Term(
+                                                        FactorNumber(
+                                                         1
+                                                        ) [FactorNumber]
+                                                        MulopFactorArrayEpsilon(
+                                                        ) [MulopFactorArrayEpsilon]
+                                                      ) [Term]
+                                                      AddopTermArrayEpsilon(
+                                                      ) [AddopTermArrayEpsilon]
+                                                    ) [Expr]
+                                                  ) [ArrayAccess]
+                                                ) [OptionalFieldAccessListRecursion]
+                                              ) [Designator]
+                                              OptionalFactorActParsNo(
+                                              ) [OptionalFactorActParsNo]
+                                            ) [FactorDesignator]
+                                            MulopFactorArrayEpsilon(
+                                            ) [MulopFactorArrayEpsilon]
+                                          ) [Term]
+                                          AddopTermArrayEpsilon(
+                                          ) [AddopTermArrayEpsilon]
+                                        ) [Expr]
+                                        OptionalNumConstNo(
+                                        ) [OptionalNumConstNo]
+                                      ) [SingleStatementEight]
+                                    ) [StatementNoLabel]
+                                  ) [StatementsList]
+                                  StatementNoLabel(
+                                    SingleStatementEight(
+                                      Expr(
+                                        UnaryMinusNo(
+                                        ) [UnaryMinusNo]
+                                        Term(
+                                          FactorDesignator(
+                                            Designator(
+                                             nizch
+                                              OptionalFieldAccessListRecursion(
+                                                OptionalFieldAccessListEpsilon(
+                                                ) [OptionalFieldAccessListEpsilon]
+                                                ArrayAccess(
+                                                  Expr(
+                                                    UnaryMinusNo(
+                                                    ) [UnaryMinusNo]
+                                                    Term(
+                                                      FactorDesignator(
+                                                        Designator(
+                                                         jedan
+                                                          OptionalFieldAccessListEpsilon(
+                                                          ) [OptionalFieldAccessListEpsilon]
+                                                        ) [Designator]
+                                                        OptionalFactorActParsNo(
+                                                        ) [OptionalFactorActParsNo]
+                                                      ) [FactorDesignator]
+                                                      MulopFactorArrayRecursion(
+                                                        MulopFactorArrayEpsilon(
+                                                        ) [MulopFactorArrayEpsilon]
+                                                        MulopFactor(
+                                                          MulopMul(
+                                                          ) [MulopMul]
+                                                          FactorNumber(
+                                                           2
+                                                          ) [FactorNumber]
+                                                        ) [MulopFactor]
+                                                      ) [MulopFactorArrayRecursion]
+                                                    ) [Term]
+                                                    AddopTermArrayEpsilon(
+                                                    ) [AddopTermArrayEpsilon]
+                                                  ) [Expr]
+                                                ) [ArrayAccess]
+                                              ) [OptionalFieldAccessListRecursion]
+                                            ) [Designator]
+                                            OptionalFactorActParsNo(
+                                            ) [OptionalFactorActParsNo]
+                                          ) [FactorDesignator]
+                                          MulopFactorArrayEpsilon(
+                                          ) [MulopFactorArrayEpsilon]
+                                        ) [Term]
+                                        AddopTermArrayEpsilon(
+                                        ) [AddopTermArrayEpsilon]
+                                      ) [Expr]
+                                      OptionalNumConstNo(
+                                      ) [OptionalNumConstNo]
+                                    ) [SingleStatementEight]
+                                  ) [StatementNoLabel]
+                                ) [StatementsList]
+                                StatementNoLabel(
+                                  SingleStatementOne(
+                                    DesignatorStatement(
+                                      Designator(
+                                       bodovi
+                                        OptionalFieldAccessListEpsilon(
+                                        ) [OptionalFieldAccessListEpsilon]
+                                      ) [Designator]
+                                      DesignatorChoiceAssign(
+                                        Assignop(
+                                        ) [Assignop]
+                                        Expr(
+                                          UnaryMinusNo(
+                                          ) [UnaryMinusNo]
+                                          Term(
+                                            FactorDesignator(
+                                              Designator(
+                                               bodovi
+                                                OptionalFieldAccessListEpsilon(
+                                                ) [OptionalFieldAccessListEpsilon]
+                                              ) [Designator]
+                                              OptionalFactorActParsNo(
+                                              ) [OptionalFactorActParsNo]
+                                            ) [FactorDesignator]
+                                            MulopFactorArrayEpsilon(
+                                            ) [MulopFactorArrayEpsilon]
+                                          ) [Term]
+                                          AddopTermArrayRecursion(
+                                            AddopTermArrayRecursion(
+                                              AddopTermArrayEpsilon(
+                                              ) [AddopTermArrayEpsilon]
+                                              AddopTerm(
+                                                AddopPlus(
+                                                ) [AddopPlus]
+                                                Term(
+                                                  FactorExpr(
+                                                    Expr(
+                                                      UnaryMinusNo(
+                                                      ) [UnaryMinusNo]
+                                                      Term(
+                                                        FactorDesignator(
+                                                          Designator(
+                                                           pet
+                                                            OptionalFieldAccessListEpsilon(
+                                                            ) [OptionalFieldAccessListEpsilon]
+                                                          ) [Designator]
+                                                          OptionalFactorActParsNo(
+                                                          ) [OptionalFactorActParsNo]
+                                                        ) [FactorDesignator]
+                                                        MulopFactorArrayRecursion(
+                                                          MulopFactorArrayEpsilon(
+                                                          ) [MulopFactorArrayEpsilon]
+                                                          MulopFactor(
+                                                            MulopMul(
+                                                            ) [MulopMul]
+                                                            FactorDesignator(
+                                                              Designator(
+                                                               jedan
+                                                                OptionalFieldAccessListEpsilon(
+                                                                ) [OptionalFieldAccessListEpsilon]
+                                                              ) [Designator]
+                                                              OptionalFactorActParsNo(
+                                                              ) [OptionalFactorActParsNo]
+                                                            ) [FactorDesignator]
+                                                          ) [MulopFactor]
+                                                        ) [MulopFactorArrayRecursion]
+                                                      ) [Term]
+                                                      AddopTermArrayRecursion(
+                                                        AddopTermArrayEpsilon(
+                                                        ) [AddopTermArrayEpsilon]
+                                                        AddopTerm(
+                                                          AddopMinus(
+                                                          ) [AddopMinus]
+                                                          Term(
+                                                            FactorNumber(
+                                                             1
+                                                            ) [FactorNumber]
+                                                            MulopFactorArrayEpsilon(
+                                                            ) [MulopFactorArrayEpsilon]
+                                                          ) [Term]
+                                                        ) [AddopTerm]
+                                                      ) [AddopTermArrayRecursion]
+                                                    ) [Expr]
+                                                  ) [FactorExpr]
+                                                  MulopFactorArrayRecursion(
+                                                    MulopFactorArrayEpsilon(
+                                                    ) [MulopFactorArrayEpsilon]
+                                                    MulopFactor(
+                                                      MulopMul(
+                                                      ) [MulopMul]
+                                                      FactorDesignator(
+                                                        Designator(
+                                                         bodovi
+                                                          OptionalFieldAccessListEpsilon(
+                                                          ) [OptionalFieldAccessListEpsilon]
+                                                        ) [Designator]
+                                                        OptionalFactorActParsNo(
+                                                        ) [OptionalFactorActParsNo]
+                                                      ) [FactorDesignator]
+                                                    ) [MulopFactor]
+                                                  ) [MulopFactorArrayRecursion]
+                                                ) [Term]
+                                              ) [AddopTerm]
+                                            ) [AddopTermArrayRecursion]
+                                            AddopTerm(
+                                              AddopMinus(
+                                              ) [AddopMinus]
+                                              Term(
+                                                FactorExpr(
+                                                  Expr(
+                                                    UnaryMinusNo(
+                                                    ) [UnaryMinusNo]
+                                                    Term(
+                                                      FactorNumber(
+                                                       3
+                                                      ) [FactorNumber]
+                                                      MulopFactorArrayRecursion(
+                                                        MulopFactorArrayEpsilon(
+                                                        ) [MulopFactorArrayEpsilon]
+                                                        MulopFactor(
+                                                          MulopMod(
+                                                          ) [MulopMod]
+                                                          FactorNumber(
+                                                           2
+                                                          ) [FactorNumber]
+                                                        ) [MulopFactor]
+                                                      ) [MulopFactorArrayRecursion]
+                                                    ) [Term]
+                                                    AddopTermArrayRecursion(
+                                                      AddopTermArrayRecursion(
+                                                        AddopTermArrayEpsilon(
+                                                        ) [AddopTermArrayEpsilon]
+                                                        AddopTerm(
+                                                          AddopPlus(
+                                                          ) [AddopPlus]
+                                                          Term(
+                                                            FactorNumber(
+                                                             3
+                                                            ) [FactorNumber]
+                                                            MulopFactorArrayRecursion(
+                                                              MulopFactorArrayEpsilon(
+                                                              ) [MulopFactorArrayEpsilon]
+                                                              MulopFactor(
+                                                                MulopMul(
+                                                                ) [MulopMul]
+                                                                FactorNumber(
+                                                                 2
+                                                                ) [FactorNumber]
+                                                              ) [MulopFactor]
+                                                            ) [MulopFactorArrayRecursion]
+                                                          ) [Term]
+                                                        ) [AddopTerm]
+                                                      ) [AddopTermArrayRecursion]
+                                                      AddopTerm(
+                                                        AddopMinus(
+                                                        ) [AddopMinus]
+                                                        Term(
+                                                          FactorNumber(
+                                                           3
+                                                          ) [FactorNumber]
+                                                          MulopFactorArrayEpsilon(
+                                                          ) [MulopFactorArrayEpsilon]
+                                                        ) [Term]
+                                                      ) [AddopTerm]
+                                                    ) [AddopTermArrayRecursion]
+                                                  ) [Expr]
+                                                ) [FactorExpr]
+                                                MulopFactorArrayEpsilon(
+                                                ) [MulopFactorArrayEpsilon]
+                                              ) [Term]
+                                            ) [AddopTerm]
+                                          ) [AddopTermArrayRecursion]
+                                        ) [Expr]
+                                      ) [DesignatorChoiceAssign]
+                                    ) [DesignatorStatement]
+                                  ) [SingleStatementOne]
+                                ) [StatementNoLabel]
+                              ) [StatementsList]
+                              StatementNoLabel(
+                                SingleStatementEight(
+                                  Expr(
+                                    UnaryMinusNo(
+                                    ) [UnaryMinusNo]
+                                    Term(
+                                      FactorDesignator(
+                                        Designator(
+                                         bodovi
+                                          OptionalFieldAccessListEpsilon(
+                                          ) [OptionalFieldAccessListEpsilon]
+                                        ) [Designator]
+                                        OptionalFactorActParsNo(
+                                        ) [OptionalFactorActParsNo]
+                                      ) [FactorDesignator]
+                                      MulopFactorArrayEpsilon(
+                                      ) [MulopFactorArrayEpsilon]
+                                    ) [Term]
+                                    AddopTermArrayEpsilon(
+                                    ) [AddopTermArrayEpsilon]
+                                  ) [Expr]
+                                  OptionalNumConstNo(
+                                  ) [OptionalNumConstNo]
+                                ) [SingleStatementEight]
+                              ) [StatementNoLabel]
+                            ) [StatementsList]
+                            StatementNoLabel(
+                              SingleStatementSeven(
+                                Designator(
+                                 bodovi
+                                  OptionalFieldAccessListEpsilon(
+                                  ) [OptionalFieldAccessListEpsilon]
+                                ) [Designator]
+                              ) [SingleStatementSeven]
+                            ) [StatementNoLabel]
+                          ) [StatementsList]
+                          StatementNoLabel(
+                            SingleStatementEight(
+                              Expr(
+                                UnaryMinusNo(
+                                ) [UnaryMinusNo]
+                                Term(
+                                  FactorDesignator(
+                                    Designator(
+                                     bodovi
+                                      OptionalFieldAccessListEpsilon(
+                                      ) [OptionalFieldAccessListEpsilon]
+                                    ) [Designator]
+                                    OptionalFactorActParsNo(
+                                    ) [OptionalFactorActParsNo]
+                                  ) [FactorDesignator]
+                                  MulopFactorArrayEpsilon(
+                                  ) [MulopFactorArrayEpsilon]
+                                ) [Term]
+                                AddopTermArrayEpsilon(
+                                ) [AddopTermArrayEpsilon]
+                              ) [Expr]
+                              OptionalNumConstNo(
+                              ) [OptionalNumConstNo]
+                            ) [SingleStatementEight]
+                          ) [StatementNoLabel]
+                        ) [StatementsList]
+                        StatementNoLabel(
+                          SingleStatementOne(
+                            DesignatorStatement(
+                              Designator(
+                               bodovi
+                                OptionalFieldAccessListEpsilon(
+                                ) [OptionalFieldAccessListEpsilon]
+                              ) [Designator]
+                              DesignatorChoiceInc(
+                              ) [DesignatorChoiceInc]
+                            ) [DesignatorStatement]
+                          ) [SingleStatementOne]
+                        ) [StatementNoLabel]
+                      ) [StatementsList]
+                      StatementNoLabel(
+                        SingleStatementNine(
+                          Label(
+                           labela1
+                          ) [Label]
+                        ) [SingleStatementNine]
+                      ) [StatementNoLabel]
+                    ) [StatementsList]
+                    StatementNoLabel(
+                      SingleStatementOne(
+                        DesignatorStatement(
+                          Designator(
+                           bodovi
+                            OptionalFieldAccessListEpsilon(
+                            ) [OptionalFieldAccessListEpsilon]
+                          ) [Designator]
+                          DesignatorChoiceAssign(
+                            Assignop(
+                            ) [Assignop]
+                            Expr(
+                              UnaryMinusNo(
+                              ) [UnaryMinusNo]
+                              Term(
+                                FactorDesignator(
+                                  Designator(
+                                   bodovi
+                                    OptionalFieldAccessListEpsilon(
+                                    ) [OptionalFieldAccessListEpsilon]
+                                  ) [Designator]
+                                  OptionalFactorActParsNo(
+                                  ) [OptionalFactorActParsNo]
+                                ) [FactorDesignator]
+                                MulopFactorArrayRecursion(
+                                  MulopFactorArrayEpsilon(
+                                  ) [MulopFactorArrayEpsilon]
+                                  MulopFactor(
+                                    MulopMul(
+                                    ) [MulopMul]
+                                    FactorNumber(
+                                     2
+                                    ) [FactorNumber]
+                                  ) [MulopFactor]
+                                ) [MulopFactorArrayRecursion]
+                              ) [Term]
+                              AddopTermArrayEpsilon(
+                              ) [AddopTermArrayEpsilon]
+                            ) [Expr]
+                          ) [DesignatorChoiceAssign]
+                        ) [DesignatorStatement]
+                      ) [SingleStatementOne]
+                    ) [StatementNoLabel]
+                  ) [StatementsList]
+                  StatementNoLabel(
+                    SingleStatementOne(
+                      DesignatorStatement(
+                        Designator(
+                         bodovi
+                          OptionalFieldAccessListEpsilon(
+                          ) [OptionalFieldAccessListEpsilon]
+                        ) [Designator]
+                        DesignatorChoiceDec(
+                        ) [DesignatorChoiceDec]
+                      ) [DesignatorStatement]
+                    ) [SingleStatementOne]
+                  ) [StatementNoLabel]
+                ) [StatementsList]
+                StatementLabel(
+                  Label(
+                   labela1
+                  ) [Label]
+                  SingleStatementOne(
+                    DesignatorStatement(
+                      Designator(
+                       bodovi
+                        OptionalFieldAccessListEpsilon(
+                        ) [OptionalFieldAccessListEpsilon]
+                      ) [Designator]
+                      DesignatorChoiceAssign(
+                        Assignop(
+                        ) [Assignop]
+                        Expr(
+                          UnaryMinusNo(
+                          ) [UnaryMinusNo]
+                          Term(
+                            FactorDesignator(
+                              Designator(
+                               bodovi
+                                OptionalFieldAccessListEpsilon(
+                                ) [OptionalFieldAccessListEpsilon]
+                              ) [Designator]
+                              OptionalFactorActParsNo(
+                              ) [OptionalFactorActParsNo]
+                            ) [FactorDesignator]
+                            MulopFactorArrayEpsilon(
+                            ) [MulopFactorArrayEpsilon]
+                          ) [Term]
+                          AddopTermArrayRecursion(
+                            AddopTermArrayEpsilon(
+                            ) [AddopTermArrayEpsilon]
+                            AddopTerm(
+                              AddopPlus(
+                              ) [AddopPlus]
+                              Term(
+                                FactorNumber(
+                                 3
+                                ) [FactorNumber]
+                                MulopFactorArrayEpsilon(
+                                ) [MulopFactorArrayEpsilon]
+                              ) [Term]
+                            ) [AddopTerm]
+                          ) [AddopTermArrayRecursion]
+                        ) [Expr]
+                      ) [DesignatorChoiceAssign]
+                    ) [DesignatorStatement]
+                  ) [SingleStatementOne]
+                ) [StatementLabel]
+              ) [StatementsList]
+              StatementNoLabel(
+                SingleStatementEight(
+                  Expr(
+                    UnaryMinusNo(
+                    ) [UnaryMinusNo]
+                    Term(
+                      FactorDesignator(
+                        Designator(
+                         bodovi
+                          OptionalFieldAccessListEpsilon(
+                          ) [OptionalFieldAccessListEpsilon]
+                        ) [Designator]
+                        OptionalFactorActParsNo(
+                        ) [OptionalFactorActParsNo]
+                      ) [FactorDesignator]
+                      MulopFactorArrayEpsilon(
+                      ) [MulopFactorArrayEpsilon]
+                    ) [Term]
+                    AddopTermArrayEpsilon(
+                    ) [AddopTermArrayEpsilon]
+                  ) [Expr]
+                  OptionalNumConstNo(
+                  ) [OptionalNumConstNo]
+                ) [SingleStatementEight]
+              ) [StatementNoLabel]
+            ) [StatementsList]
+            StatementNoLabel(
+              SingleStatementNine(
+                Label(
+                 labelaminus
+                ) [Label]
+              ) [SingleStatementNine]
+            ) [StatementNoLabel]
+          ) [StatementsList]
+          StatementNoLabel(
+            SingleStatementEight(
+              Expr(
+                UnaryMinusNo(
+                ) [UnaryMinusNo]
+                Term(
+                  FactorChar(
+                  ) [FactorChar]
+                  MulopFactorArrayEpsilon(
+                  ) [MulopFactorArrayEpsilon]
+                ) [Term]
+                AddopTermArrayEpsilon(
+                ) [AddopTermArrayEpsilon]
+              ) [Expr]
+              OptionalNumConstNo(
+              ) [OptionalNumConstNo]
+            ) [SingleStatementEight]
+          ) [StatementNoLabel]
+        ) [StatementsList]
+        StatementLabel(
+          Label(
+           labelaminus
+          ) [Label]
+          SingleStatementEight(
+            Expr(
+              UnaryMinusNo(
+              ) [UnaryMinusNo]
+              Term(
+                FactorChar(
+                ) [FactorChar]
+                MulopFactorArrayEpsilon(
+                ) [MulopFactorArrayEpsilon]
+              ) [Term]
+              AddopTermArrayEpsilon(
+              ) [AddopTermArrayEpsilon]
+            ) [Expr]
+            OptionalNumConstNo(
+            ) [OptionalNumConstNo]
+          ) [SingleStatementEight]
+        ) [StatementLabel]
+      ) [StatementsList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:33:10,058 - ===================================
+INFO  22:33:10,060 -  Print count calls = 10
+INFO  22:33:10,060 -  Deklarisanih promenljivih ima = 3
